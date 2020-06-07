@@ -1,0 +1,11 @@
+001  0.0   90.0    0.0    0.0  000 !AHS-HOT Present day Atlantic-Indian hotspots fixed to 000          
+001 600.0   90.0    0.0    0.0  000 !AHS-HOT 
+701  0.0   90.0    0.0    0.0  001 !AFR-AHS Africa-Indian/Atlantic Hotspots
+701 600.0   90.0    0.0    0.0  001 !AFR-AHS
+801  0.0   90.0    0.0    0.0  802 !AUS-ANT Australia-Antarctica       
+801 83.0    0.9086   38.368  -31.7895  802 ! AUS-ANT euler pole 83 Ma-present
+801 600.0    0.9086   38.368  -31.7895  802 !AUS-ANT
+802  0.0   90.0    0.0    0.0  701 !ANT-AFR Antarctica-Africa
+802 600.0   90.0    0.0    0.0  701 !ANT-AFR
+850  0.0   90.0    0.0    0.0  801 !TSM-AUS Tasmania-Australia
+850 600.0   90.0    0.0    0.0  801 !TSM-AUS

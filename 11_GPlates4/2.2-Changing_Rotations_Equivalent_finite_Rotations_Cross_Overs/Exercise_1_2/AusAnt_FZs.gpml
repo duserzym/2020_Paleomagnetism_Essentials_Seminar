@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:UnclassifiedFeature>
+            <gpml:identity>GPlates-a88bd4f6-6370-4df1-ba0b-9c288defd2f8</gpml:identity>
+            <gpml:revision>GPlates-64ce727e-9ea1-4f3c-b12e-7395a88edcc4</gpml:revision>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>802</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:shapefileAttributes>
+                <gpml:KeyValueDictionary>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>Id</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>0</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>PLATE_CODE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>802</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>GEOGRAPHIC</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:string</gpml:valueType>
+                            <gpml:value>Antarctica</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>APPEARANCE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>130</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>DISAPPEARA</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>-999</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                </gpml:KeyValueDictionary>
+            </gpml:shapefileAttributes>
+            <gpml:unclassifiedGeometry>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-64.070100000000011 103.739 -63.321399999999997 102.786 -62.413899999999998 101.85599999999999 -61.1661 100.971 -60.621600000000001 100.63 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:unclassifiedGeometry>
+            <gml:name>Antarctica</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">130</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">-999</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+        </gpml:UnclassifiedFeature>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:UnclassifiedFeature>
+            <gpml:identity>GPlates-ca011d28-4d76-4bcf-8fd2-8e6480dae0ce</gpml:identity>
+            <gpml:revision>GPlates-ae26810c-0c2b-42d7-a2d6-c5803d82d3d4</gpml:revision>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>801</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:shapefileAttributes>
+                <gpml:KeyValueDictionary>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>Id</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>0</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>PLATE_CODE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>801</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>GEOGRAPHIC</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:string</gpml:valueType>
+                            <gpml:value>Australia</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>APPEARANCE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>130</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>DISAPPEARA</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>-999</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                </gpml:KeyValueDictionary>
+            </gpml:shapefileAttributes>
+            <gpml:unclassifiedGeometry>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-33.902099999999997 108.52 -33.914900000000003 108.533 -34.823200000000007 109.28700000000001 -34.989099999999993 109.42400000000001 -35.423400000000001 109.767 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:unclassifiedGeometry>
+            <gml:name>Australia</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">130</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">-999</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+        </gpml:UnclassifiedFeature>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:UnclassifiedFeature>
+            <gpml:identity>GPlates-bbcde919-ee4a-485b-8675-04eb0d4296d1</gpml:identity>
+            <gpml:revision>GPlates-a5758379-a464-410b-944e-d08a77ef6be6</gpml:revision>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>801</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:shapefileAttributes>
+                <gpml:KeyValueDictionary>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>Id</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>0</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>PLATE_CODE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>801</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>GEOGRAPHIC</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:string</gpml:valueType>
+                            <gpml:value>Australia</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>APPEARANCE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>130</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>DISAPPEARA</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>-999</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                </gpml:KeyValueDictionary>
+            </gpml:shapefileAttributes>
+            <gpml:unclassifiedGeometry>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-34.5473 113.42100000000001 -34.701200000000007 113.619 -34.706600000000002 113.626 -34.7468 113.678 -35.332000000000008 114.43000000000001 -36.200499999999998 115.57299999999999 -36.567500000000003 115.93999999999998 -36.6464 116.01900000000001 -36.771700000000003 116.14400000000002 -36.931899999999999 116.304 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:unclassifiedGeometry>
+            <gml:name>Australia</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">130</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">-999</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+        </gpml:UnclassifiedFeature>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:UnclassifiedFeature>
+            <gpml:identity>GPlates-26e2ae8d-76d3-4ecd-a879-2c170f917ddf</gpml:identity>
+            <gpml:revision>GPlates-299306c2-1b6d-458e-b6f6-e5ee72afedb5</gpml:revision>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>801</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:shapefileAttributes>
+                <gpml:KeyValueDictionary>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>Id</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>0</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>PLATE_CODE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>801</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>GEOGRAPHIC</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:string</gpml:valueType>
+                            <gpml:value>Australia</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>APPEARANCE</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>130</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                    <gpml:element>
+                        <gpml:KeyValueDictionaryElement>
+                            <gpml:key>DISAPPEARA</gpml:key>
+                            <gpml:valueType xmlns:xsi="http://www.w3.org/XMLSchema-instance">xsi:integer</gpml:valueType>
+                            <gpml:value>-999</gpml:value>
+                        </gpml:KeyValueDictionaryElement>
+                    </gpml:element>
+                </gpml:KeyValueDictionary>
+            </gpml:shapefileAttributes>
+            <gpml:unclassifiedGeometry>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-36.491900000000001 111.11 -36.248199999999997 110.866 -35.8748 110.49300000000001 -35.645499999999998 110.318 -35.328600000000002 110.07599999999999 -35.327800000000003 110.07599999999999 -35.223399999999998 109.996 -35.021700000000003 109.809 -34.7806 109.58499999999999 -34.743400000000001 109.55000000000001 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:unclassifiedGeometry>
+            <gml:name>Australia</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">130</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">-999</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+        </gpml:UnclassifiedFeature>
+    </gml:featureMember>
+</gpml:FeatureCollection>
